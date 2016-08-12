@@ -1,0 +1,30 @@
+{
+  "name": "hain-plugin-NaviDictionary",
+  "version": "1.0.1",
+  "description": "Hain Plugin for Navi Dictionary",
+  "main": "index.js",
+  "keywords": [
+    "hain-0.3.0"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveen701372/hain-plugin-NaviDictionary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Naveen701372/hain-plugin-NaviDictionary/issues"
+  },
+  "homepage": "https://github.com/Naveen701372/hain-plugin-NaviDictionary#readme",
+  "scripts": {},
+  "author": "Naveen Upadhyay <personal.navi93@gmail.com>",
+  "license": "MIT",
+  "hain": {
+    "prefix": "??",
+    "usage": "??solitude",
+    "icon": "./navi_dict.png",
+    "group": "Navi Dictionary"
+  },
+  "dependencies": {
+    "got": "^6.3.0",
+    "lodash.take": "^4.0.3"
+  }
+}
